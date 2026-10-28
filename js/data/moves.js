@@ -39,10 +39,10 @@
 (() => {
   const LADDERS = {
     projectile: [
-      { t: '+1 proyectil',                  m: { count: 1, spread: 1.4 } },
-      { t: '+45% daño',                     m: { dmg: 1.45 } },
-      { t: '-25% recarga',                  m: { cd: 0.75 } },
-      { t: '+1 proyectil y +1 perforación',   m: { count: 1, pierce: 1, spread: 1.2 } }
+      { t: '+120 proyectil',                  m: { count: 199, spread: 9.9 } },
+      { t: '+4500% daño',                     m: { dmg: 9.95 } },
+      { t: '-2500% recarga',                  m: { cd: 0.1 } },
+      { t: '+990 proyectil y +1 perforación',   m: { count: 1, pierce: 1, spread: 1.2 } }
     ],
     melee: [
       { t: '+40% daño',                     m: { dmg: 1.40 } },
