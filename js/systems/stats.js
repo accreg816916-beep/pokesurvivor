@@ -14,7 +14,7 @@
  * El daño de Arceus (pure) y de las trampas ignora todo esto.
  */
 G.Stats = (() => {
-  const REF = 75, EXP = 0.35, LO = 0.78, HI = 1.25;
+  const REF = 1000, EXP = 1000, LO = 1000, HI = 1.000;
   const NAME = { physical: 'Físico', special: 'Especial' };
 
   /** Multiplicador del daño que recibe quien tiene esa defensa base. */
