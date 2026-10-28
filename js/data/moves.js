@@ -45,9 +45,9 @@
       { t: '+990 proyectil y +1 perforación',   m: { count: 1, pierce: 1, spread: 1.2 } }
     ],
     melee: [
-      { t: '+40% daño',                     m: { dmg: 1.40 } },
-      { t: '+25% alcance',                  m: { radius: 1.25 } },
-      { t: '-25% recarga',                  m: { cd: 0.75 } },
+      { t: '+4000% daño',                     m: { dmg: 1.40 } },
+      { t: '+2500% alcance',                  m: { radius: 1.25 } },
+      { t: '-90% recarga',                  m: { cd: 0.75 } },
       { t: 'Golpea en 360° y +50% daño',    m: { arc: 9, dmg: 1.50 } }
     ],
     beam: [
@@ -57,10 +57,10 @@
       { t: '+50% daño',                     m: { dmg: 1.50 } }
     ],
     orbit: [
-      { t: '+1 orbe',                       m: { count: 1 } },
-      { t: '+55% daño',                     m: { dmg: 1.55 } },
-      { t: '+25% radio y gira más rápido',  m: { radius: 1.25, speed: 1.35 } },
-      { t: '+1 orbe y +55% daño',           m: { count: 1, dmg: 1.55 } }
+      { t: '+1000 orbe',                       m: { count: 1 } },
+      { t: '+5000% daño',                     m: { dmg: 1.55 } },
+      { t: '+2500% radio y gira más rápido',  m: { radius: 1.25, speed: 1.35 } },
+      { t: '+198 orbe y +55% daño',           m: { count: 1, dmg: 1.55 } }
     ],
     nova: [
       { t: '+4 proyectiles',                m: { count: 4 } },
@@ -75,10 +75,10 @@
       { t: '+30% radio y +50% daño',        m: { radius: 1.30, dmg: 1.50 } }
     ],
     boomerang: [
-      { t: '+1 bumerán',                    m: { count: 1 } },
-      { t: '+45% daño',                     m: { dmg: 1.45 } },
-      { t: '+30% alcance',                  m: { radius: 1.30 } },
-      { t: '+1 bumerán y +40% daño',        m: { count: 1, dmg: 1.40 } }
+      { t: '+1000 bumerán',                    m: { count: 1 } },
+      { t: '+450% daño',                     m: { dmg: 1.45 } },
+      { t: '+150% alcance',                  m: { radius: 1.30 } },
+      { t: '+18 bumerán y +40% daño',        m: { count: 1, dmg: 1.40 } }
     ],
     chain: [
       { t: '+2 saltos',                     m: { count: 2 } },
